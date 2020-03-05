@@ -1,0 +1,33 @@
+{
+  "name": "jquery-php",
+  "version": "0.8.3",
+  "description": "Library for work with jQuery framework from server-side",
+  "main": "javascript/jquery.php.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkruczynski/jquery-php.git"
+  },
+  "keywords": [
+    "jquery",
+    "php"
+  ],
+  "author": "Anton Shevchuk",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/AntonShevchuk/jquery-php/issues"
+  },
+  "dependencies": {
+    "jquery": ">=1.2.1"
+  },
+  "homepage": "http://jquery.hohli.com"
+}
